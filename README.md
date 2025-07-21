@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a couple of things**
 
-- 🌱 I’m currently learning **Polish 🇵🇱 and VR**
+- 🌱 I’m currently learning **Polish 🇵🇱, VR and how to be Spanish**
 
 - 👨‍💻 All of my projects are available at [https://powerofmax.github.io/maxivega/](https://powerofmax.github.io/maxivega/)
 
-- 💬 Ask me about **React, NodeJs**
+- 💬 Ask me about **React, NodeJs and maybe AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
